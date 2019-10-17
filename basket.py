@@ -1,4 +1,4 @@
-from product import *
+from product import * 
 
 class Basket():
     def __init__(self,list1):
